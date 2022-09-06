@@ -59,6 +59,7 @@ body {
 	font-size: 36px;
 	line-height: 49px;
 	color: #FFFFFF;
-	margin: 0 auto:
-	padding: 0 135px;	
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 135px;
 }
