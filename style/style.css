@@ -83,28 +83,29 @@ body {
 	position: relative;
 }
 .div-before {
-	position: absolute;
-	width: 178px;
-	height: 121px;
-	background: #BFDEFB;
-	left: 13%;
-	bottom: -45%;
+    position: absolute;
+    width: 178px;
+    height: 121px;
+    background: #BFDEFB;
+    left: -108px;
+    bottom: 453px;
 }
 .div {
-	position: absolute;
-	width: 178px;
-	height: 121px;
-	background: #BFDEFB;
-	left: 13%;
-	bottom: -70%;
+    position: absolute;
+    height: 121px;
+    width: 178px;
+    left: -108px;
+    top: 339px;
+    border-radius: 0px;
+    background: rgb(191, 222, 251);
 }
 .div-after {
-	position: absolute;
-	width: 178px;
-	height: 121px;
-	background: #BFDEFB;
-	right: 13%;
-	top: 147%;
+    position: absolute;
+    width: 178px;
+    height: 121px;
+    background: #BFDEFB;
+    right: -109px;
+    top: 236px;
 }
 .article__text-text {
 	width: 696px;
