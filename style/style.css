@@ -67,6 +67,9 @@ body {
 	margin: 0 auto;
 	padding: 135px;
 }
+.article {
+        position: relative;
+}
 .article__text {
 	width: 696px;
 	height: 246px;
