@@ -87,14 +87,14 @@ body {
     width: 178px;
     height: 121px;
     background: #BFDEFB;
-    left: -108px;
+    left: 0px;
     bottom: 453px;
 }
 .div {
     position: absolute;
     height: 121px;
     width: 178px;
-    left: -108px;
+    left: 0px;
     top: 339px;
     border-radius: 0px;
     background: rgb(191, 222, 251);
@@ -104,7 +104,7 @@ body {
     width: 178px;
     height: 121px;
     background: #BFDEFB;
-    right: -109px;
+    right: 0px;
     top: 236px;
 }
 .article__text-text {
